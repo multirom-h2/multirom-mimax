@@ -18,17 +18,18 @@
                     "version": "mrom20180219-01",
                     "type": "recovery",
                     "size": "22167552",
-		    "md5": "73e352081172e334237d3cb7d3fff302"
+                    "md5": "73e352081172e334237d3cb7d3fff302"
                 },
                 {
                     "url": "https://github.com/multirom-h2/multirom-mimax/raw/hydrogen/multirom_uninstaller.zip",
                     "version": "",
                     "type": "uninstaller",
                     "size": "1667769",
-		    "md5": "d45cbb95ecfb94a73bbd55a88b082054"
+                    "md5": "d45cbb95ecfb94a73bbd55a88b082054"
                 }
             ],
             "changelogs": [],
             "name": "hydrogen"
         }
     ]
+}
