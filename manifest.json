@@ -10,26 +10,25 @@
                     "url": "https://github.com/multirom-h2/multirom-mimax/raw/hydrogen/multirom-20180219-v33x-UNOFFICIAL-hydrogen.zip",
                     "version": "33",
                     "type": "multirom",
-                    "size": "4087622,
-                    "md5": "c844f010f53d37e32b19ee37ee52307e"
+                    "size": "4087622",
+		    "md5": "c844f010f53d37e32b19ee37ee52307e"
                 },
                 {
                     "url": "https://github.com/multirom-h2/multirom-mimax/raw/hydrogen/TWRP_3.2.1-3_multirom_hydrogen_20180219-01.img",
                     "version": "mrom20180219-01",
                     "type": "recovery",
-                    "size": "22167552,
-                    "md5": "73e352081172e334237d3cb7d3fff302"
+                    "size": "22167552",
+		    "md5": "73e352081172e334237d3cb7d3fff302"
                 },
                 {
                     "url": "https://github.com/multirom-h2/multirom-mimax/raw/hydrogen/multirom_uninstaller.zip",
                     "version": "",
                     "type": "uninstaller",
-                    "size": "1667769,
-                    "md5": "d45cbb95ecfb94a73bbd55a88b082054"
+                    "size": "1667769",
+		    "md5": "d45cbb95ecfb94a73bbd55a88b082054"
                 }
             ],
             "changelogs": [],
             "name": "hydrogen"
         }
     ]
-}
